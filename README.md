@@ -23,6 +23,6 @@ You need to have maven to build the project `https://maven.apache.org/install.ht
 mvn clean package
 ```
 
-**Entry point is com.lms.main -> App.java
+**Entry point is com.lms.main -> App.java**
 
 
